@@ -1,14 +1,14 @@
-# Loanix Privacy Policy
+# Amorti Privacy Policy
 
 **Last updated:** 04-06-2026
 
 ## 1. Introduction
-Welcome to Loanix. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how our mobile application handles data.
+Welcome to Amorti. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how our mobile application handles data.
 
 ## 2. Data Collection and Use
 
 ### Local Data Storage
-Loanix is designed as an offline-first tool. All loan calculations, interest rates, and history entries are stored locally on your device using an internal database (Room DB).
+Amorti is designed as an offline-first tool. All loan calculations, interest rates, and history entries are stored locally on your device using an internal database (Room DB).
 
 ### Personal Information
 We do not collect, store, or transmit any personally identifiable information (PII) such as your name, email address, phone number, or bank account details.
